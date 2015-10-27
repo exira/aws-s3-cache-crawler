@@ -1,0 +1,21 @@
+type project
+owners
+    exira
+authors
+    exira
+projectUrl
+    http://git.exira.com/aws-s3-cache-crawler/
+iconUrl
+    https://raw.githubusercontent.com/exira/aws-s3-cache-crawler/master/docs/files/img/logo.png
+licenseUrl
+    http://github.com/exira/aws-s3-cache/blob/master/LICENSE.txt
+requireLicenseAcceptance
+    false
+copyright
+    Copyright 2015
+tags
+    aws s3 f#
+summary
+    Exira.AwsS3Cache.Crawler is a task which crawls a site so pages are pre-loaded into cache
+description
+    Exira.AwsS3Cache.Crawler is a task which crawls a site so pages are pre-loaded into cache
